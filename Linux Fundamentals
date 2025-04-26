@@ -1,0 +1,31 @@
+# 😎Linux Fundamentals Module😎
+
+
+
+** ⚒️Tools and Concepts covered⚒️ **
+
+    - File system hierarchi, User and Group management
+    - Creating files, directories, user
+    - Package management (apt, yum)
+    - Process management (ps, top, kill)
+    - Shell scripting, SSH and remote connections.
+    - Essential commands (ls, pwd, touch, mkdir, rm, etc)
+
+
+** 💻Hands on activites💻 **
+
+    - Created, managed files and directories. (touch, mkdir, rm, cp, mv, etc)
+    - Modified file and directory permissions. (chmod, chown, chgrp)
+    - Installed and removed software packages. (apt install, apt upgrade, yum install, yum upgrade)
+    - Connected to remote servers using SSH and transfered files using SCP. 
+    - Managed users and group. (useradd, usermod, passwd, groupadd, etc)
+
+
+** 🧠Key Learnings🧠 **
+
+    - Mastered navigating Linux environment using CLI.
+    - Understood file and directories system and imp directories. 
+    - Learned to control access for control and security purposes. 
+    - Installing and updating of softwares using package managers. 
+    - Learned simple automation scripts and improve knowlege on shell scripting.
+    - Developed skills in remote connection and server management using SSH. 
