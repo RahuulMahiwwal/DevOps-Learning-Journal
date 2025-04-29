@@ -1,0 +1,15 @@
+# 😎 Understanding and using Build Tools 😎
+
+
+
+** ⚒️Tools and Topics covered⚒️ **
+    - Overview of Build tools. (Maven, Gradle)
+    - Maven - Architecture, Plugins, Archetypes, Commands
+    - Integration of Jacoco Plugin for Code Coverage
+
+
+** 🧠Key Learnings🧠 **
+    - Application build : Compile the code + Create artifacts + Perform unit testing 
+    - pom.xml : Project Object Model
+    - Maven respository : https://mvnrepository.com/ ( Contains dependicies and plugins)
+    - Build environment (VM)
