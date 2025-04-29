@@ -7,9 +7,10 @@ This is my learning journal where I will be documenting my DevOps certification 
 3. DevOps Overview : Look into the big picture.
 4. DevOps on Cloud (AWS) : Deployed apps and infra on AWS.
 5. Managing Source Code - Git and GitHub : Learned version control basics.
+6. Undestanding and Using Build tools : Learning how to automate builds.
 
 # ⚒️Ongoing module :
-Undestanding and Using Build tools : Learning how to automate builds.
+Continuos Integration using Jenkins. 
 
 # 🎯Upcoming modules :
 1. Continuous Integration using Jenkins.
