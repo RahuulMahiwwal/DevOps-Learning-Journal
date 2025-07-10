@@ -1,0 +1,34 @@
+# ☸️ Kubernetes - Container Orchestration Module ☸️
+
+---
+
+**⚒️ Tools and Concepts Covered ⚒️**
+- Kubernetes architecture (Master node, Worker node, Kubelet, etcd, kube-proxy)
+- Pods, ReplicaSets, Deployments, and Services
+- Namespaces, ConfigMaps, and Secrets
+- NodePort, ClusterIP, LoadBalancer service types
+- Basic kubectl commands and YAML manifests
+- Scheduling, scaling, rolling updates, and self-healing
+- Connecting Kubernetes with Docker
+- Monitoring Kubernetes using Prometheus & Grafana
+
+---
+
+**💻 Hands-on Activities 💻**
+- Set up a 2-node Kubernetes cluster using kubeadm on Ubuntu VMs
+- Installed Docker/containerd as container runtime
+- Deployed a sample Spring Boot application as a Pod and exposed it
+- Created Deployments, Services (NodePort), and tested scaling
+- Used `kubectl` to manage pods, view logs, and debug issues
+- Edited YAML files to update configurations and apply changes
+- Deployed Docker images from Docker Hub inside the cluster
+- Performed rolling updates and rollback using `kubectl rollout`
+
+---
+
+**🧠 Key Learnings 🧠**
+- Understanding Kubernetes as a production-grade orchestration tool
+- Writing YAML files for declarative infrastructure
+- Automating deployment, scaling, and recovery
+- Real-world experience with pod management and services
+- Using Kubernetes for managing container-based microservices
