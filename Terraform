@@ -1,0 +1,34 @@
+# 🌍 Terraform - Infrastructure as Code (IaC) Module 🌍
+
+---
+
+**⚒️ Tools and Concepts Covered ⚒️**
+- What is Terraform? Intro to IaC
+- Terraform vs CloudFormation vs Ansible
+- Terraform architecture: Providers, Resources, Modules, and State
+- Writing `.tf` files to define infrastructure
+- Terraform CLI: `init`, `plan`, `apply`, `destroy`
+- Managing remote backends and state locking
+- Variables, Outputs, and Terraform modules
+- Provisioning EC2, VPC, S3, and RDS on AWS using Terraform
+
+---
+
+**💻 Hands-on Activities 💻**
+- Installed Terraform on Ubuntu VM
+- Wrote `.tf` files to provision AWS EC2 instances with key pairs and security groups
+- Created infrastructure: VPCs, Subnets, Internet Gateways, Route Tables
+- Created reusable variable and output files
+- Used `terraform plan` to preview changes and `terraform apply` to launch infra
+- Destroyed entire infrastructure using `terraform destroy`
+- Applied changes using `terraform taint`, `refresh`, and `validate`
+- Structured Terraform modules for reusable deployments
+
+---
+
+**🧠 Key Learnings 🧠**
+- Automating infrastructure provisioning with code
+- Understanding declarative syntax and execution plans
+- Managing reusable, version-controlled infrastructure modules
+- Using AWS provider effectively for real-world infra
+- Tracking state and collaboration via remote state (future use)
