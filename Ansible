@@ -1,0 +1,36 @@
+# 🛠️ Ansible - Configuration Management Module 🛠️
+
+---
+
+**⚒️ Tools and Concepts Covered ⚒️**
+- What is Ansible? Agentless vs Agent-based tools
+- Ansible architecture (Control node, Managed nodes, SSH-based)
+- Inventory files (static and dynamic)
+- Ansible Ad-hoc commands vs Playbooks
+- YAML syntax and best practices
+- Modules (copy, file, service, apt, yum, shell, debug, etc.)
+- Handlers, Variables, Loops, and Templates (Jinja2)
+- Role-based automation structure
+- Integration with Jenkins for deployment
+
+---
+
+**💻 Hands-on Activities 💻**
+- Installed Ansible on control node (Ubuntu VM)
+- Created inventory files with multiple managed nodes (e.g., dev/prod)
+- Used ad-hoc commands to install packages and start/stop services
+- Wrote and executed Ansible playbooks to:
+  - Set up Apache, Docker, and custom applications
+  - Copy files, configure permissions, restart services
+  - Manage users and permissions
+- Created reusable Ansible roles for application deployments
+- Integrated Ansible with Jenkins for automated post-build deployments
+
+---
+
+**🧠 Key Learnings 🧠**
+- Automating server configuration and provisioning
+- Writing idempotent and reusable playbooks
+- Using inventory files and group variables for multi-node setups
+- Structuring Ansible roles for real-world use
+- Connecting CI/CD pipelines with Ansible for zero-touch deployment
