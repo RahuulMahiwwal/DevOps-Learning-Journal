@@ -8,7 +8,7 @@ This is my learning journal where I will be documenting my DevOps certification 
 4. DevOps on Cloud (AWS) : Deployed apps and infra on AWS.
 5. Managing Source Code - Git and GitHub : Learned version control basics.
 6. Undestanding and Using Build tools : Learning how to automate builds. [Build Tools](./Understanding%20and%20Using%20Build%20Tools)
-7. Continous Integration using Jenkins. - https://github.com/RahuulMahiwwal/DevOps-Learning-Journal/blob/main/Jenkins.
+7. Continous Integration using Jenkins : [Jenkins].(./Jenkins)
 8. Containerization, Docker, Docker Hub.
 9. Container Orchestration Tool - Kubernetes.
 10. Configuration Automation using Ansible.
