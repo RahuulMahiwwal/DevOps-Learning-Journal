@@ -1,0 +1,35 @@
+# 📊 Prometheus & Grafana - Monitoring Module 📊
+
+---
+
+**⚒️ Tools and Concepts Covered ⚒️**
+- Introduction to observability and monitoring in DevOps
+- Prometheus architecture: TSDB, Exporters, Targets, Pull-based model
+- Grafana overview: Dashboards, Panels, Data Sources
+- Node Exporter, cAdvisor for system/container metrics
+- AlertManager and rules
+- Integrating Prometheus with Kubernetes and Docker
+- Visualizing Jenkins metrics and container health
+
+---
+
+**💻 Hands-on Activities 💻**
+- Installed Prometheus and Grafana on Ubuntu monitoring VM
+- Configured Prometheus to scrape metrics from Node Exporter and Docker containers
+- Installed and configured Node Exporter on multiple VMs
+- Used `prometheus.yml` to define scrape targets and job configs
+- Installed Grafana, added Prometheus as a data source
+- Imported and customized Grafana dashboards to visualize:
+  - CPU, memory, disk, network stats
+  - Docker container usage
+  - Kubernetes node/pod metrics (if integrated)
+- Set up basic alerts using Prometheus AlertManager
+
+---
+
+**🧠 Key Learnings 🧠**
+- Understanding real-time infrastructure monitoring
+- Setting up custom and system-level metrics using exporters
+- Configuring Prometheus to scrape data across environments
+- Building Grafana dashboards for meaningful visualization
+- Laying the foundation for alerting and proactive issue detection
