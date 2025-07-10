@@ -2,7 +2,7 @@ Hi! I am Rahuul Mahiwwal. Mechanical Engineer holding three years of work experi
 This is my learning journal where I will be documenting my DevOps certification journey. 
 
 # ✅Completed modules : 
-1. AWS Cloud(Solutions Architect) : Got comfortable with cloud. - [AWS Cloud](./AWS%20Cloud)
+1. AWS Cloud(Solutions Architect) : Got comfortable with cloud. - [AWS Cloud](./AWS_Cloud.md)
 2. Linux Fundamentals : Learned command line. [Linux Fundamentals](./Linux%20Fundamentals)
 3. DevOps Overview : Look into the big picture.
 4. DevOps on Cloud (AWS) : Deployed apps and infra on AWS.
