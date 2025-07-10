@@ -10,10 +10,10 @@ This is my learning journal where I will be documenting my DevOps certification 
 6. Undestanding and Using Build tools : Learning how to automate builds. [Build Tools](./Understanding%20and%20Using%20Build%20Tools)
 7. Continous Integration using Jenkins : [Jenkins](./Jenkins)
 8. Containerization, Docker, Docker Hub. [Containerization](./Containerization)
-9. Container Orchestration Tool - Kubernetes.
-10. Configuration Automation using Ansible.
-11. Terraform overview.
-12. Continuous monitoring using Prometheus and Grafana.
+9. Container Orchestration Tool - Kubernetes. [Kubernetes](./Kubernetes)
+10. Configuration Automation using Ansible. [Ansible](./Ansible)
+11. Terraform overview. [Terraform](./Terraform)
+12. Continuous monitoring using Prometheus and Grafana. [Monitoring](./Monitoring)
 13. DevOps with AI.
 14. Capstone Project😎
 
