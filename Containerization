@@ -1,0 +1,34 @@
+# 🐳 Docker & Containerization Module 🐳
+
+---
+
+**⚒️ Tools and Concepts Covered ⚒️**
+- Virtualization vs Containerization
+- Docker Architecture (Engine, Daemon, CLI)
+- Docker Images, Containers, Volumes, and Networks
+- Docker Hub (Public and Private Repositories)
+- Dockerfile creation and optimization
+- Docker Compose basics
+- Container lifecycle and troubleshooting
+- Integrating Docker with Jenkins pipelines
+
+---
+
+**💻 Hands-on Activities 💻**
+- Installed Docker CE on Ubuntu VM
+- Pulled official images like NGINX, MySQL, and Jenkins from Docker Hub
+- Built custom Docker images using Dockerfile
+- Created and ran containers in detached and interactive modes
+- Pushed custom images to personal Docker Hub repository
+- Used Docker Compose to define and run multi-container applications
+- Integrated Docker with Jenkins to build, tag, and push images automatically
+
+---
+
+**🧠 Key Learnings 🧠**
+- Dockerizing real-world applications
+- Writing efficient Dockerfiles with multistage builds
+- Managing containers, images, and networks
+- Pushing images to Docker Hub and reusing them across VMs
+- Understanding container lifecycle and logs
+- Automating CI/CD workflows using Docker in Jenkins
